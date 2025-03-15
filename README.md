@@ -1,1 +1,2 @@
-# argocd-test, test commit . 
+# argocd-demo
+ArgoDC Demo
